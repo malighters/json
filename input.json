@@ -1,0 +1,29 @@
+﻿[
+  {
+    "PublishingHouseId": 2,
+    "Title": "Book. Algebra 8",
+    "PublishingHouse": {
+      "Id": 2,
+      "Name": "Gymnasium",
+      "Adress": "Adress 2"
+    }
+  },
+  {
+    "PublishingHouseId": 1,
+    "Title": "Diary of neurosurgery",
+    "PublishingHouse": {
+      "Id": 1,
+      "Name": "Old Lion Publishing House",
+      "Adress": "Adress 1"
+    }
+  },
+  {
+    "PublishingHouseId": 2,
+    "Title": "Book Supplies. Algebra 9",
+    "PublishingHouse": {
+      "Id": 2,
+      "Name": "Gymnasium",
+      "Adress": "Adress 2"
+    }
+  }
+]

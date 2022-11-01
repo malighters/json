@@ -1,0 +1,17 @@
+C:\Users\USER\RiderProjects\JSON\JSON\bin\Debug\net6.0\JSON.exe
+C:\Users\USER\RiderProjects\JSON\JSON\bin\Debug\net6.0\JSON.deps.json
+C:\Users\USER\RiderProjects\JSON\JSON\bin\Debug\net6.0\JSON.runtimeconfig.json
+C:\Users\USER\RiderProjects\JSON\JSON\bin\Debug\net6.0\JSON.dll
+C:\Users\USER\RiderProjects\JSON\JSON\bin\Debug\net6.0\JSON.pdb
+C:\Users\USER\RiderProjects\JSON\JSON\obj\Debug\net6.0\JSON.csproj.AssemblyReference.cache
+C:\Users\USER\RiderProjects\JSON\JSON\obj\Debug\net6.0\JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\RiderProjects\JSON\JSON\obj\Debug\net6.0\JSON.AssemblyInfoInputs.cache
+C:\Users\USER\RiderProjects\JSON\JSON\obj\Debug\net6.0\JSON.AssemblyInfo.cs
+C:\Users\USER\RiderProjects\JSON\JSON\obj\Debug\net6.0\JSON.csproj.CoreCompileInputs.cache
+C:\Users\USER\RiderProjects\JSON\JSON\obj\Debug\net6.0\JSON.dll
+C:\Users\USER\RiderProjects\JSON\JSON\obj\Debug\net6.0\refint\JSON.dll
+C:\Users\USER\RiderProjects\JSON\JSON\obj\Debug\net6.0\JSON.pdb
+C:\Users\USER\RiderProjects\JSON\JSON\obj\Debug\net6.0\JSON.genruntimeconfig.cache
+C:\Users\USER\RiderProjects\JSON\JSON\obj\Debug\net6.0\ref\JSON.dll
+C:\Users\USER\RiderProjects\JSON\JSON\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\USER\RiderProjects\JSON\JSON\obj\Debug\net6.0\JSON.csproj.CopyComplete
